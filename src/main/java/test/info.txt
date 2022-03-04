@@ -1,0 +1,12 @@
+Booking
+
+userId ,  center Id, booking id
+
+
+one user -> one booking
+
+
+
+center --> multiple booking
+
+
